@@ -1,7 +1,8 @@
-package com.soul.iqrobooks
+package com.soul.iqrobooks.presentation.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.soul.iqrobooks.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
